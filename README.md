@@ -1,10 +1,3 @@
-# Tugas-Besar-Kecerdasan-Buatan - STudent Performance Analysis
-Dokumentasi Tugas Besar Kecerdasan Buatan TK-47-04 Kelompok 8, dengan Anggota
-- Muhammad Raffi Ibrahim
-- Muh. Abdi Izzan Ismail
-- Muhammad Irhan Fadil Hapidi
-
-
 # Student Performance Prediction — Baseline Linear Regression
 
 A from-scratch implementation of linear regression using gradient descent to predict student academic performance, with full EDA, preprocessing, training, and evaluation pipeline.
@@ -197,3 +190,10 @@ RMSE            : X.XXXX
 ## License
 
 This project is for educational purposes. Dataset is provided by Mendeley Data under their respective terms of use.
+
+
+# Tugas-Besar-Kecerdasan-Buatan - Student Performance Analysis
+Dokumentasi Tugas Besar Kecerdasan Buatan TK-47-04 Kelompok 8, dengan Anggota
+- Muhammad Raffi Ibrahim
+- Muh. Abdi Izzan Ismail
+- Muhammad Irhan Fadil Hapidi
